@@ -15,6 +15,7 @@ class Jarvia extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      color: Colors.black,
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         body: Consumer<LoginState>(

@@ -146,7 +146,7 @@ class _TaskSliverListState extends State<TaskSliverList> {
               child: Row(
                 children: [
                   Padding(
-                    padding: EdgeInsets.fromLTRB(10.0, 30.0, 0, 40.0),
+                    padding: EdgeInsets.fromLTRB(10.0, 30.0, 0, 20.0),
                     child: Text(
                         headerText,
                       style: TextStyle(
