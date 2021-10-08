@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782526315809",
+    "project_id": "jarvia-e5b6e",
+    "storage_bucket": "jarvia-e5b6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782526315809:android:6f92f58e07a575ba1b9260",
+        "android_client_info": {
+          "package_name": "com.teaBag.jarvia_prime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782526315809-nv2re4r7onl65rqea3f68b7g8p8rcnod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJKWaAQOXbnOzPAfG800ejyVzJs8OE6QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782526315809-nv2re4r7onl65rqea3f68b7g8p8rcnod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
